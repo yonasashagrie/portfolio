@@ -11,7 +11,7 @@
   },
   {
     "name": "EDA AMEO Dataset",
-    "desc": "In the context of this project, examining all the data deeply, one can explore some valuable information and trends in a salary, academic performance, engineering specializations, and gender differences manner, giving points for the decision-making process from the analyzed data.",
+    "desc": "It was working on performing Exploratory Data Analysis (EDA) over a very interesting dataset (with Salary as the target variable)",
     "image": "EDA",
     "category": "Data Analytics",
     "links": {
