@@ -10,13 +10,13 @@
     }
   },
   {
-    "name": "SPPU Engg Prep",
-    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
-    "image": "sppuprepandroid",
-    "category": "android",
+    "name": "EDA AMEO Dataset",
+    "desc": "In the context of this project, examining all the data deeply, one can explore some valuable information and trends in a salary, academic performance, engineering specializations, and gender differences manner, giving points for the decision-making process from the analyzed data.",
+    "image": "EDA",
+    "category": "Data Analytics",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/sppu-prep-android"
+      "view": "https://www.linkedin.com/posts/yonas-ashagrie_eda-ameo-activity-7166804732823490560-iKlK?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/yonasashagrie/EDA-AMEO-Dataset.git"
     }
   },
   {
