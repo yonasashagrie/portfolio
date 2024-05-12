@@ -21,12 +21,12 @@
   },
   {
     "name": "REGEX-Matching web app",
-    "desc": "This is a simple Flask web application that allows users to input a test string and a regular expression pattern. It then finds and displays all matches of the regular expression pattern within the test string.",
+    "desc": "This is a simple Flask web application that allows users to input a test string and a regular expression pattern.AND DEPLOYMENT ON AWS EC2.",
     "image": "regex",
     "category": "Flask app",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/newsbox-android"
+      "view": "https://www.linkedin.com/posts/yonas-ashagrie_regex-emailvalidation-aws-activity-7180424185670766592-FsZa?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/yonasashagrie/Regex-Matching-Web-App.git"
     }
   },
   {
