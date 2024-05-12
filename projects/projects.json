@@ -30,13 +30,13 @@
     }
   },
   {
-    "name": "Weatherly Android",
-    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
-    "image": "weatherlyandroid",
-    "category": "android",
+    "name": "Note taking web app",
+    "desc": "This Flask application is designed to allow users to add and view notes using session management.",
+    "image": "notet",
+    "category": "Flask app",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/weatherly-android"
+      "view": "https://www.linkedin.com/posts/yonas-ashagrie_bug-activity-7170492365860712449-LwJ-?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/yonasashagrie/Code-Refactoring-and-Bug-Fixing.git"
     }
   },
   {
